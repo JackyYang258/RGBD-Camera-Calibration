@@ -1,0 +1,6 @@
+numpy
+pyyaml
+transforms3d
+pyrealsense2
+open3d
+opencv-python
